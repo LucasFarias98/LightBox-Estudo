@@ -1,0 +1,4 @@
+.efeitoAparecer{display: block;}
+.efeitoSumir{display: none;}
+.efeitoBody{background-color: black; transition: background-color 1s;}
+.efeitoBodyz{background-color:  white; transition: background-color: 3s;}
